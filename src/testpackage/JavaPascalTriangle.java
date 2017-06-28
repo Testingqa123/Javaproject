@@ -3,7 +3,8 @@ public class JavaPascalTriangle
 {
 
 	    public static void main(String[] args) {
-
+// hkjhkjhkjh
+	    	// hjkhjkhkjlhkjhk
 	        int rows = 10;
          
 
